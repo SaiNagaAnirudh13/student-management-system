@@ -1,1 +1,2 @@
-assignemnet
+addstudent()
+this adds student name and id to the system
